@@ -4,7 +4,7 @@ This program is an 8-puzzle solver that uses Uniform Cost Search, A* with the Mi
 
 ## How it works
 
-The program takes the input puzzle size and a user-defined puzzle or a default puzzle. The user is prompted to choose an algorithm to solve the puzzle. The program then outputs the solution path, the number of expanded nodes, the maximum number of nodes in the queue, and the depth of the goal node.
+The program takes the input puzzle size and a user-defined puzzle or a default puzzle. You are prompted to choose an algorithm to solve the puzzle. The program then outputs the solution path, the number of expanded nodes, the maximum number of nodes in the queue, and the depth of the goal node.
 
 ## Files
 
